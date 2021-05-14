@@ -17,7 +17,7 @@ class Christophe(Human):
         "data_science": {
             "etapes": [
                        "Data mining", "Data collection", "Web scraping", "Data cleaning", "Data management",
-                       "Data analysis", "Data visualization", "Spatial Big Data",
+                       "Data analysis", "Data visualization", "Machine Learning", "Spatial Big Data",
                        "Rédaction de rapports", "Présentation orale", "Explications tous publics", "Création de tutoriels"
                       ],
             "outils": ["tensorflow", "keras", "opencv", "scikit-learn", "nltk", "matplotlib", "seaborn", "bokeh", "numpy", "pandas", ...],
