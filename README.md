@@ -20,21 +20,23 @@ class Christophe(Human):
                        "Data analysis", "Data visualization", "Spatial Big Data",
                        "Rédaction de rapports", "Présentation orale", "Explications tous publics", "Création de tutoriels"
                       ],
-            "outils": ["tensorflow", "keras", "opencv", "scikit-learn", "nltk", "numpy", "pandas", ...],
-            "concepts": ["Image Processing", "Natural Language Processing"],
+            "outils": ["tensorflow", "keras", "opencv", "scikit-learn", "nltk", "matplotlib", "seaborn", "bokeh", "numpy", "pandas", ...],
+            "concepts": ["Image Processing", "Natural Language Processing", "Spatial Big Data"]
         },
         "web": {
             "front_end": {
-                "JavaScript": ["jQuery"],
-                "CSS": ["materialize", "bootstrap"]
+                "HTML": ["HTML5"],
+                "CSS": ["materialize", "bootstrap"],
+                "JavaScript": ["jQuery"]
             },
             "back_end": {
                 "python": ["flask", "django", "dash", "streamlit"],
-                "JavaScript": ["node"],
+                "JavaScript": ["node"]
             },
-            "CMS": {"WordPress", ...}
-        }
+            "CMS": ["WordPress", ...]
+        },
         "databases": ["MySql", "MariaDB", "SQLite", "PostgreSQL", "Oracle Database", "MongoDB"],
+        "SIG": ["QGIS", "ArcGIS", "MapInfo"]
     }
 
 
