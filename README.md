@@ -1,11 +1,9 @@
-
-
 <h2>Salut, Je suis Christophe Wardius ! <img src="https://media.giphy.com/media/L3X281rTKLHwimax1y/giphy.gif" width="70"></h2>
 <p><em>Data Analyst junior & Consultant Business Intelligence junior.<img src="https://media.giphy.com/media/h2NRnIIEw6tv9emZSc/giphy.gif" width="90">
 </em></p>
 <p>Je suis également spécialiste en cartographie informatique (SIG) et designer full stack (UX/UI) cross platform.</p>
 
-<h3><img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="50">En savoir un peu plus sur moi...</h3>
+<h3><img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="60">En savoir un peu plus sur moi...</h3>
 
 ```python
 
@@ -58,6 +56,7 @@ if __name__ == "__main__":
             cafe(christophe)
             laptop.code(christophe)
 ```
+<h3>Plus d'informations sur <a href="https://linkedin.com/in/christophewardius">linkedin.com/in/christophewardius</a> & <a href="https://christophe-wardius.fr">christophe-wardius.fr</a></h3>
 <p>N'hésitez pas à me contacter pour toute proposition. Merci de votre lecture.</p>
 
 ---
